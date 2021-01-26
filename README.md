@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+ <img src="https://user-images.githubusercontent.com/56240088/105873956-62b27200-603f-11eb-9718-3f43b00cf7ed.png" align="center">
 
 ### <div align="center">Good Day! It's Yewon Kim. I learn everything I want !  👨‍💻 </div>  
   
