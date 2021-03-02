@@ -14,9 +14,6 @@
 - ❓ Ask me about anything
   
 
-- ⚡ Fun fact: I love cats but I have allergy 🐈  
-  
-
 <br/>  
 
 
