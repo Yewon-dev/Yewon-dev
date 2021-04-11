@@ -8,10 +8,9 @@
 ### <div align="center">Good Day! It's Yewon Kim. I learn everything I want !  👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Docker and Kubernetes  
+- 🌱 I’m currently learning MachineLearning and DeepLearning with Docker.
   
 
-- ❓ Ask me about anything
   
 
 <br/>  
