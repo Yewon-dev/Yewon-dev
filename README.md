@@ -9,7 +9,7 @@
   
 
 - 🌱 I’m currently learning MachineLearning and DeepLearning with Docker.
-- 📚 I am majoring in Mathematics and Computer Science.
+- 📚 I am majoring in Mathematics and Computer Engineering.
 
 <br/>  
 
