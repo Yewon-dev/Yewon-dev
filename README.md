@@ -9,6 +9,14 @@
   
 
 - 🌱 I’m currently learning MachineLearning and DeepLearning with Docker.
+- 📚 I am majoring in Mathematics and Computer Science.
+
+<br/>  
+
+👉 2019.02 ~ 2019.05 **4차 산업혁명 연구 동아리 TAVE** 3기 <br/>
+👉 2020.04 ~ 2020.10 **멋쟁이사자처럼** 8기 <br/>
+👉 2022.01 ~ 2022.06 **부스트캠프 AI Tech** 3기 <br/>
+
   
 
   
