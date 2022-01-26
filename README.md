@@ -34,12 +34,9 @@
 
 ### If you want to connect with me ...  
 <div align="center">
-<a href="https://devye.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/tech%20blog-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yewon-kim-545004203" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+ 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://devye.tistory.com/)](https://devye.tistory.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yewon-kim-545004203)](https://linkedin.com/in/yewon-kim-545004203) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yewon.devv@gmail.com)](mailto:yewon.devv@gmail.com)
+
 </div>  
   
 
