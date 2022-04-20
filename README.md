@@ -23,10 +23,10 @@
 <br/>
 
 #### PROJECTS
-- 2019.03 ~ 2019.04 Chatbot for members
-- 2020.09 ~ 2020.10 **월소담** - 롯데의 신메뉴 구독 서비스
-- 2020.08           **코알라** - 코스로 알찬 하루 나기, 당일치기 코스 추천 서비스
-- 2020.02 ~ 2020.12 **거기어때?!** - safety map for positive discrimination.
+- 2020.02 ~ 2020.12 [**거기어때?!**](https://github.com/Yewon-dev/safety_map) - safety map for positive discrimination.
+- 2020.09 ~ 2020.10 [**월소담**](https://github.com/Yewon-dev/wolsodam) - 롯데의 신메뉴 구독 서비스
+- 2020.08 ~ 2020.08 [**코알라**](https://github.com/Yewon-dev/koala) - 코스로 알찬 하루 나기, 당일치기 코스 추천 서비스
+- 2019.03 ~ 2019.04 [Chatbot](https://github.com/Yewon-dev/chatbot-TAVE) for members
 
 
   
