@@ -24,7 +24,7 @@
 
 #### PROJECTS
 
-- 2022.05 ~ 2022.06 [**내일의집**](https://github.com/boostcampaitech3/final-project-level3-cv-02) - 당신의 스케치로, 가구를 현실로
+- 2022.05 ~ 2022.06 [**내일의집**](https://github.com/boostcampaitech3/final-project-level3-cv-02) - 간단한 스케치로, 당신의 가구를 현실로
 - 2020.02 ~ 2020.12 [**거기어때?!**](https://github.com/Yewon-dev/safety_map) - safety map for positive discrimination.
 - 2020.09 ~ 2020.10 [**월소담**](https://github.com/Yewon-dev/wolsodam) - 롯데의 신메뉴 구독 서비스
 - 2020.08 ~ 2020.08 [**코알라**](https://github.com/Yewon-dev/koala) - 코스로 알찬 하루 나기, 당일치기 코스 추천 서비스
