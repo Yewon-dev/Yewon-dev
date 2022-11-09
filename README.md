@@ -9,7 +9,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 #### ME
-- 🌱 I'm learning about **ML, DL**.
+- 🌱 I'm learning about **Computer Vision** and **Kubernetes**.
 - 📚 I majored in **Mathematics** and **Computer Engineering**.
 - 💖 I'm interested in **Computer Vision** and **MLOps**.
 
