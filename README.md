@@ -3,12 +3,17 @@
  <img src="https://user-images.githubusercontent.com/56240088/105873956-62b27200-603f-11eb-9718-3f43b00cf7ed.png" align="center" width="30%">
 </p>
 
-### <div align="center">Good Day! It's Yewon Kim. I learn everything I want !  👨‍💻 </div>  
+### <div align="center">Good Day! It's Yewon Kim. <br> I learn everything whatever I want ❗</div>  
+
+
+> As a **fast learner** with a strong drive for **self-improvement**, 
+> I am always seeking new **challenges** and opportunities for **growth**.
   
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 #### ME
+
 - 🌱 I'm learning about **Computer Vision** and **Kubernetes**.
 - 📚 I majored in **Mathematics** and **Computer Engineering**.
 - 💖 I'm interested in **Computer Vision** and **MLOps**.
