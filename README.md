@@ -14,7 +14,7 @@
 
 #### ME
 
-- 🌱 I'm learning about **Computer Vision** and **Kubernetes**.
+- 🌱 I'm learning about **MSA** and **Kubernetes**.
 - 📚 I majored in **Mathematics** and **Computer Engineering**.
 - 💖 I'm interested in **Computer Vision** and **MLOps**.
 
@@ -22,8 +22,8 @@
 <br/>
 
 #### ACTIVITIES
-- 2020.04 ~ 2020.10 **멋쟁이사자처럼** 8기
 - 2022.01 ~ 2022.06 **네이버 부스트캠프 AI Tech** 3기 - Computer Vision
+- 2020.04 ~ 2020.10 **멋쟁이사자처럼** 8기
   
 <br/>
 
