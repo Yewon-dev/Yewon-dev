@@ -41,7 +41,7 @@
 
 ### Things I code with ...
   
-##### 🔍Level 3(Can write code without assistance)
+#### 🔍Level 3(Can write code without assistance)
   <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white" />
@@ -53,7 +53,7 @@
   </p>
   
   
-##### 🔍Level 2(Know how to use it, and is able to interpret code) 
+#### 🔍Level 2(Know how to use it, and is able to interpret code) 
   <p>
  
   <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white" />
@@ -69,7 +69,7 @@
   </p>
 
 
-##### 🔍Level 1(Know only basic usage and I can code it by referring to the internet)
+#### 🔍Level 1(Know only basic usage and I can code it by referring to the internet)
   <p>
  
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
